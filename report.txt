@@ -1,0 +1,118 @@
+# Pregled sezone 2024/25
+
+## Преглед сезоне: број утакмица и голова, просечан број голова по утакмици, удео победа
+домаћина, нерешених и победа гостију
+
+|season|utakmice|golovi|prosek_golova|udeo_pobeda_domacin|udeo_nereseno|udeo_pobeda_gost|
+
+|2024/25|380|1092|2.873684210526316|41.31578947368421|25.00000000000000|33.68421052631579|
+
+Sezona 2024/25 zavrsila se sa 380nutakmica i 1092 data gola. Prosek golova po utakmici iznosi 2.87. Udeo pobeda domacina iznosi 41.3 dok 
+su pobede gosta na 33.7 
+
+## По месецима: број утакмица и голова по месецима, и просечан број голова по утакмици у
+сваком месецу. Који месец се издваја?
+
+|godina|mesec|utakmice|prosek_golova|
+|---|---|---|---|
+|2024|8|28|3.54|
+|2024|10|30|3.4|
+|2025|4|40|3.1|
+|2025|2|40|2.98|
+|2025|3|40|2.83|
+|2024|12|52|2.79|
+|2025|1|51|2.69|
+|2025|5|30|2.63|
+|2024|11|37|2.59|
+|2024|9|32|2.44|
+
+Prosek golova je stabilan i krece se od 2.44 do 3.54 dok se kolicina utakmica krece od 28 za avgust 2024. i najvise 52 u decembru 2024.
+
+## Публика: просечна посета и попуњеност по стадиону; утакмице без податка о посети и
+утакмица без публике
+
+|stadium_name|prosek_popunjenost|popunjenost_po_stadionu|bez_podataka|bez_publike|
+|---|---|---|---|---|
+|Pemberton Park|29905.263157894737|0.8307017543859649|0|0|
+|The Albion Ground|22467.052631578947|0.8478133068520357|0|0|
+|Valemont Park|23804.105263157893|0.8816335282651072|0|0|
+|Dunmore Park|10961.722222222223|0.811311677631579|1|0|
+|Kingsbridge Stadium|37968.42105263158|0.8078387458006719|0|0|
+|National Stadium|28404.666666666668|0.3550583333333333|0|0|
+|Stonebridge Park|19137.894736842107|0.8699043062200957|0|0|
+|Riverside Ground|26232.88888888889|0.8016842105263158|1|0|
+|Brackley Road|12207.166666666666|0.7975644283121597|1|0|
+|Northport Arena|36250.166666666664|0.8376161745827985|1|0|
+|Queensport Docks Stadium|19739.21052631579|0.8582265446224256|0|0|
+|Thornbury Bowl|32299.70588235294|0.7506425153793574|2|0|
+|Lakeside Stadium|25482|0.8354754098360656|0|0|
+|Harbourside Park|44074.05263157895|0.8475779352226721|0|0|
+|Westmere Park|16282.684210526315|0.8801450924608819|0|0|
+|Cliff Road|18128.666666666668|0.8178345864661654|1|0|
+|Elmsworth Lane|21745.5|0.858375|1|0|
+|Forest Ground|13922.894736842105|0.8701809210526316|0|0|
+|Castle Grounds|29616.777777777777|0.8502424242424242|1|0|
+|Mill Lane|24960|0.8757894736842106|0|0|
+|Oakfield Road|17125.1875|0.8782147435897436|0|0|
+
+Utakmice bez podataka o publici u sezoni 2024/25 imamo 9 a utakmice bez poseta nema.
+
+## Судије: за сваког судију број утакмица и картони по утакмици
+
+|referee_name|utakmice|kartoni_po_utakmici|
+|---|---|---|
+|Samuel Achebe|275|0.2|
+|Gavin Reid|286|0.23776223776223776|
+|Robert Kane|272|0.2536764705882353|
+|Stuart Attwell-Jones|284|0.25|
+|Craig Pawson-Lee|317|0.25236593059936907|
+|Luca Benedetti|291|0.25773195876288657|
+|Tomás Herrera|296|0.2195945945945946|
+|Michael Oliver Hart|265|0.21132075471698114|
+|Daniel Price|287|0.25435540069686413|
+|Mark Halsey-Brown|304|0.24671052631578946|
+|Owen Pritchard|273|0.2490842490842491|
+|Henrik Dahl|293|0.25597269624573377|
+|Ivan Kovač|304|0.24671052631578946|
+|Simon Albright|292|0.2465753424657534|
+|Jonas Berg|281|0.199288256227758|
+|Amir Haddad|329|0.24924012158054712|
+|Neil Swarbrick|271|0.23247232472324722|
+|Peter Lindgren|315|0.2698412698412698|
+|Graham Sutton|279|0.20430107526881722|
+
+Za svakog sudiju prikazane su utakmice i kartoni po utakmici
+
+## Играчи: пет најбољих стрелаца и пет најбољих асистената.
+
+Najbolji strelci:
+
+first_name	last_name	br_golova	br_asistencija
+Leo	Marsh	92	7
+Mattéo	O'Brien	65	6
+José	Muñoz	43	7
+Ben	Bennett	30	4
+Luke	Gibbs	29	1
+
+Najbolji asistenti:
+
+|first_name|last_name|br_golova|br_asistencija|
+|---|---|---|---|
+|Raphaël|Moreau|10|12|
+|Marcus|Kerr|11|11|
+|Eirik|Solberg|11|11|
+|Pablo|Fernández|11|11|
+|Ryan|Harrison|6|10|
+
+## Квалитет података: бар два проблема на која сте наишли у подацима (на пример утакмица
+чији резултат се не слаже са догађајима, догађаји са непостојећим играчем, дан без
+тренера), са упитима који их проналазе.
+
+|match_id|golovi|match_id|golovi|
+|---|---|---|---|
+|2068|3|2068|2|
+|2189|4|2189|3|
+|2018|6|2018|5|
+|2263|2|2263|1|
+|2374|5|2374|4|
+
